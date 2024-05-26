@@ -27,7 +27,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-80%25-yellow?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)  
 [![Tailwind](https://img.shields.io/badge/Tailwind-100%25-yellow?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+[![Material UI](https://img.shields.io/badge/Material--UI-100%25-yellow?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 
 ## Languages
 
