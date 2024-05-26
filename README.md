@@ -6,7 +6,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ## Skills and Tools
 
-- **Frameworks**: Spring Boot, React, Node.js
 - **Tools**: Git, Docker, Jenkins, PostgreSQL, MongoDB, JIRA, Trello, VS Code, Photoshop, Illustrator, Axure, PowerApps
 
 ## Certifications
@@ -15,13 +14,15 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 - **TypeScript Programming**
 - **REST API Development**
 
-## Programming Languages
+## Programming Languages and research
 
-![Programming Languages](https://img.shields.io/badge/HTML%20%26%20CSS-90%25-yellow?style=for-the-badge)
-![Programming Languages](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
-![Programming Languages](https://img.shields.io/badge/Python-70%25-yellow?style=for-the-badge)
-![Programming Languages](https://img.shields.io/badge/AI-60%25-yellow?style=for-the-badge)
-![Programming Languages](https://img.shields.io/badge/Java-50%25-yellow?style=for-the-badge)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-90%25-yellow?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-70%25-yellow?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-50%25-yellow?style=for-the-badge&logo=java&logoColor=white)
+
+## Languages
 
 ## Languages
 
@@ -35,7 +36,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
 [![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fweb-cv-wine.vercel.app)](https://web-cv-wine.vercel.app)
 
-## Languages and Tools:
+## Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][Java]
 
