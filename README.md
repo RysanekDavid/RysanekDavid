@@ -48,7 +48,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="Axure" width="30x" src="https://cdn.worldvectorlogo.com/logos/axure-2.svg" style="padding-right:10px;" />][website]
+[<img align="left" justify="center" alt="Axure" width="30x" src="https://cdn.worldvectorlogo.com/logos/axure-2.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="PowerApps" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][website]
 
 <br />
@@ -56,16 +56,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [website]: https://web-cv-wine.vercel.app
