@@ -4,9 +4,11 @@
 
 I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
 
-## Skills and Tools
+## Connect with me:
 
-- **Tools**: Git, Docker, Jenkins, PostgreSQL, MongoDB, JIRA, Trello, VS Code, Photoshop, Illustrator, Axure, PowerApps
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
+[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https://web-cv-wine.vercel.app)](https://web-cv-wine.vercel.app)
 
 ## Certifications
 
@@ -14,13 +16,13 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 - **TypeScript Programming**
 - **REST API Development**
 
-## Programming Languages and research
+## Programming Languages and HTLangs
 
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-90%25-yellow?style=for-the-badge&logo=html5&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-70%25-yellow?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Java](https://img.shields.io/badge/Java-50%25-yellow?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-70%25-yellow?style=for-the-badge&logo=python&logoColor=white)
 
 ## Languages
 
@@ -29,12 +31,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 - **English**
 - **German**
 - **Czech**
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
-[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fweb-cv-wine.vercel.app)](https://web-cv-wine.vercel.app)
 
 ## Tools:
 
