@@ -8,7 +8,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
-[![My Portfolio](https://img.shields.io/static/v1?label=My%20Portfolio&message=CV&color=grey&style=for-the-badge)](https://web-cv-wine.vercel.app)
+[![My Portfolio](https://img.shields.io/static/v1?label=My%20Portfolio)](https://web-cv-wine.vercel.app)
 
 ## Certifications
 
@@ -24,8 +24,9 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-90%25-yellow?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-80%25-yellow?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-80%25-yellow?style=for-the-badge&logo=openjdk)
+[![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-80%25-yellow?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)  
+[![Tailwind](https://img.shields.io/badge/Tailwind-100%25-yellow?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 ## Languages
 
@@ -54,8 +55,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
   <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RysanekDavid&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://web-cv-wine.vercel.app
-[Java]: https://www.java.com/en/
-[React]: https://reactjs.org/
 [Node.js]: https://nodejs.org/
 [Git]: https://git-scm.com/
 [Docker]: https://www.docker.com/
