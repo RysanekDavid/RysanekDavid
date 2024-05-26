@@ -20,7 +20,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-80%25-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-70%25-yellow?style=for-the-badge&logo=python&logoColor=white)
