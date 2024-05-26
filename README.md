@@ -25,10 +25,11 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 ![TypeScript](https://img.shields.io/badge/TypeScript-90%25-yellow?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-80%25-yellow?style=for-the-badge&logo=react)
 [![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-80%25-yellow?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)  
+[![Java](https://img.shields.io/badge/Java-80%25-yellow?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/en/)  
 [![Tailwind](https://img.shields.io/badge/Tailwind-100%25-yellow?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Material UI](https://img.shields.io/badge/Material--UI-100%25-yellow?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+[![Material UI](https://img.shields.io/badge/Material--UI-100%25-yellow?style=for-the-badge&logo=material-ui)](https://mui.com/)
 [![Redux](https://img.shields.io/badge/Redux-100%25-yellow?style=for-the-badge&logo=redux)](https://redux.js.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-90%25-yellow?style=for-the-badge&logo=mongodb)](https://redux.js.org/)
 
 ## Languages
 
