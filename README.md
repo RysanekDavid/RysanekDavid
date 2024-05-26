@@ -48,7 +48,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />][website]
-[<img align="left" text-align= "center" alt="Axure" width="30x" src="https://logowik.com/content/uploads/images/axure2644.jpg" style="padding-right:10px;" />][website]
+[<img align="left" alt="Axure" width="30x" src="https://logowik.com/content/uploads/images/axure2644.jpg" style="padding-right:10px;" />][website]
 [<img align="left" alt="PowerApps" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][website]
 
 <br />
