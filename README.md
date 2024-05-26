@@ -1,4 +1,4 @@
-# Hi there, I'm David Ryšánek 👋
+# 👋 Hi there, I'm David Ryšánek 👋
 
 ## About Me
 
@@ -8,7 +8,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
-[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https://web-cv-wine.vercel.app)](https://web-cv-wine.vercel.app)
+[![My Portfolio](https://img.shields.io/static/v1?label=My%20Portfolio&message=CV&color=grey&style=for-the-badge)](https://web-cv-wine.vercel.app)
 
 ## Certifications
 
@@ -16,15 +16,14 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 - **TypeScript Programming**
 - **REST API Development**
 
-## Programming Languages and HTLangs
+## Programming Languages and frameworks
 
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-70%25-yellow?style=for-the-badge&logo=python&logoColor=white)
-
-## Languages
 
 ## Languages
 
@@ -35,7 +34,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 ## Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][Java]
-
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][React]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][Node.js]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][Git]
