@@ -18,12 +18,13 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ## Programming Languages and frameworks
 
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-80%25-yellow?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5)
+![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=markdown)
+![Express](https://img.shields.io/badge/Express.js-90%25-yellow?style=for-the-badge&logo=express)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-80%25-yellow?style=for-the-badge&logo=react)
 ![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-70%25-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-70%25-yellow?style=for-the-badge&logo=java)
 
 ## Languages
 
@@ -33,8 +34,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ## Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][Java]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][React]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][Node.js]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][Git]
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][Docker]
