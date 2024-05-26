@@ -1,27 +1,34 @@
 # Hi there, I'm David Ryšánek 👋
 
-[![LinkedIn](https://img.shields.io/badge/-David%20Ryšánek-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-rysanek)
-[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fweb-cv-wine.vercel.app)](https://web-cv-wine.vercel.app)
-
 ## About Me
 
 I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
 
-## Skills
+## Skills and Tools
 
 - **Languages**: Java, JavaScript, TypeScript, Python, SQL
 - **Frameworks**: Spring Boot, React, Angular, Node.js
-- **Tools**: Git, Docker, Jenkins, PostgreSQL, MongoDB
+- **Tools**: Git, Docker, Jenkins, PostgreSQL, MongoDB, JIRA, Trello, VS Code, Photoshop, Illustrator, Axure, PowerApps
 
-## Projects
+## Certifications
 
-### [Project Name]
+- **React Framework Development**
+- **TypeScript Programming**
+- **REST API Development**
 
-Description of the project, technologies used, and your role in it.
+## Programming Languages
 
-### [Project Name]
+![Programming Languages](https://img.shields.io/badge/HTML%20%26%20CSS-90%25-yellow?style=for-the-badge)
+![Programming Languages](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge)
+![Programming Languages](https://img.shields.io/badge/Python-70%25-yellow?style=for-the-badge)
+![Programming Languages](https://img.shields.io/badge/AI-60%25-yellow?style=for-the-badge)
+![Programming Languages](https://img.shields.io/badge/Java-50%25-yellow?style=for-the-badge)
 
-Description of the project, technologies used, and your role in it.
+## Languages
+
+- **English**
+- **German**
+- **Czech**
 
 ## Connect with me:
 
@@ -46,21 +53,13 @@ Description of the project, technologies used, and your role in it.
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#64130](https://github.com/vercel/next.js/pull/64130) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 💪 Opened PR [#1261](https://github.com/syntaxfm/website/pull/1261) in [syntaxfm/website](https://github.com/syntaxfm/website)
-3. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-<!--END_SECTION:activity-->
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=david-rysanek&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
