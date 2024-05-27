@@ -24,7 +24,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [![Tailwind](https://img.shields.io/badge/Tailwind-95%25-D4E108?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Material UI](https://img.shields.io/badge/Material--UI-100%25-D4E108?style=for-the-badge&logo=material-ui)](https://mui.com/)
 [![Redux](https://img.shields.io/badge/Redux-85%25-D4E108?style=for-the-badge&logo=redux)](https://redux.js.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-90%25-D4E108?style=for-the-badge&logo=mongodb)](https://redux.js.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-90%25-D4E108?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 ---
 
