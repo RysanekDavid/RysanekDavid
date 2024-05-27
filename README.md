@@ -18,12 +18,12 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ## Programming Languages and frameworks
 
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=markdown&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-90%25-yellow?style=for-the-badge&logo=express)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-yellow?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-80%25-yellow?style=for-the-badge&logo=react)
+[![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=markdown&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-90%25-yellow?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-90%25-yellow?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-80%25-yellow?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-80%25-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-80%25-yellow?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/en/)  
 [![Tailwind](https://img.shields.io/badge/Tailwind-100%25-yellow?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
@@ -55,7 +55,23 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RysanekDavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Most Used Languages
+
+![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RysanekDavid&layout=compact&langs_count=4)](https://github.com/RysanekDavid/github-readme-stats)
+
+---
+
   <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RysanekDavid&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+---
 
 [website]: https://web-cv-wine.vercel.app
 [Node.js]: https://nodejs.org/
