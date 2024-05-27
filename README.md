@@ -9,7 +9,7 @@
 
 I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
 
-## </> Programming Languages and frameworks
+## 🖥️ Programming Languages and frameworks
 
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=markdown&logoColor=black)
@@ -29,6 +29,12 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RysanekDavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🤖 Artificial Intelligence
+
+I am interested in machine learning, chatbots, and the application of artificial intelligence in various fields.
 
 ---
 
