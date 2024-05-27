@@ -57,8 +57,6 @@ I am interested in machine learning, chatbots, and the application of artificial
 
 ---
 
-<br/>
-
 ## 🏅 Certifications
 
 - **React Framework Development**
