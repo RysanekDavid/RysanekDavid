@@ -31,18 +31,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ---
 
-## Certifications
-
-- **React Framework Development**
-- **TypeScript Programming**
-- **REST API Development**
-
-## Languages
-
-- **English**
-- **German**
-- **Czech**
-
 ## Tools:
 
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][Node.js]
@@ -56,6 +44,20 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [<img align="left" alt="Axure" width="30x" src="https://logowik.com/content/uploads/images/axure2644.jpg" style="padding-right:10px;" />][Axure]
 [<img align="left" alt="PowerApps" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][PowerApps]
 
+---
+
+## Certifications
+
+- **React Framework Development**
+- **TypeScript Programming**
+- **REST API Development**
+
+## Languages
+
+- **English**
+- **German**
+- **Czech**
+
 <br />
 <br />
 
@@ -63,17 +65,14 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ## 📊 Most Used Languages
 
-![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RysanekDavid&layout=compact&langs_count=4)](https://github.com/RysanekDavid/github-readme-stats)
 
 ---
 
   <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RysanekDavid&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  
----
 
-[website]: https://web-cv-wine.vercel.app
+![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
+
 [Node.js]: https://nodejs.org/
 [Git]: https://git-scm.com/
 [Docker]: https://www.docker.com/
