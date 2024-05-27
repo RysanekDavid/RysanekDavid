@@ -8,7 +8,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
-[![My Portfolio](https://img.shields.io/static/v1?label=My%20Portfolio)](https://web-cv-wine.vercel.app)
+[![My Portfolio](https://img.shields.io/static/v1?label=WEB&message=MY%20PORTFOLIO&style=for-the-badge&color=green)](https://web-cv-wine.vercel.app)
 
 ## Certifications
 
