@@ -9,6 +9,8 @@
 
 I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
 
+---
+
 ## 🖥️ Programming Languages and frameworks
 
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-D4E108?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -18,7 +20,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [![TypeScript](https://img.shields.io/badge/TypeScript-90%25-D4E108?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-90%25-D4E108?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-80%25-D4E108?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-70%25-D4E108?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/en/)  
+[![Java](https://img.shields.io/badge/Java-60%25-D4E108?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/en/)  
 [![Tailwind](https://img.shields.io/badge/Tailwind-95%25-D4E108?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Material UI](https://img.shields.io/badge/Material--UI-100%25-D4E108?style=for-the-badge&logo=material-ui)](https://mui.com/)
 [![Redux](https://img.shields.io/badge/Redux-85%25-D4E108?style=for-the-badge&logo=redux)](https://redux.js.org/)
@@ -52,6 +54,8 @@ I am interested in machine learning, chatbots, and the application of artificial
 [<img align="left" alt="Axure" width="30x" src="https://logowik.com/content/uploads/images/axure2644.jpg" style="padding-right:10px;" />][Axure]
 [<img align="left" alt="PowerApps"  width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][PowerApps]
 
+---
+
 <br/>
 
 ## 🏅 Certifications
@@ -64,15 +68,17 @@ I am interested in machine learning, chatbots, and the application of artificial
 
 ## 🗣️ Languages
 
-- **English**
-- **German**
-- **Czech**
+- 🇬🇧 🇺🇸 **English**
+- 🇩🇪 **German**
+- 🇨🇿 **Czech** 🏅🏒🏅
 
 ---
 
 ## 👀 Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
+
+---
 
 ## 📶 GitHub Stats
 
@@ -89,4 +95,4 @@ I am interested in machine learning, chatbots, and the application of artificial
 [Axure]: https://www.axure.com/
 [PowerApps]: https://www.microsoft.com/powerapps
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
