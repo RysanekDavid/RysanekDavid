@@ -1,20 +1,14 @@
 # 👋 Hi there, I'm David Ryšánek 👋
 
-## About Me
-
-I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
-
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
 [![My Portfolio](https://img.shields.io/static/v1?label=WEB&message=MY%20PORTFOLIO&style=for-the-badge&color=green)](https://web-cv-wine.vercel.app)
 
-## Certifications
+## About Me
 
-- **React Framework Development**
-- **TypeScript Programming**
-- **REST API Development**
+I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
 
 ## Programming Languages and frameworks
 
@@ -30,6 +24,20 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [![Material UI](https://img.shields.io/badge/Material--UI-100%25-yellow?style=for-the-badge&logo=material-ui)](https://mui.com/)
 [![Redux](https://img.shields.io/badge/Redux-100%25-yellow?style=for-the-badge&logo=redux)](https://redux.js.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-90%25-yellow?style=for-the-badge&logo=mongodb)](https://redux.js.org/)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RysanekDavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Certifications
+
+- **React Framework Development**
+- **TypeScript Programming**
+- **REST API Development**
 
 ## Languages
 
@@ -52,12 +60,6 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 <br />
 <br />
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RysanekDavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
