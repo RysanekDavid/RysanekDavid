@@ -14,8 +14,8 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 ## 🖥️ Programming Languages and frameworks
 
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-D4E108?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Markdown](https://img.shields.io/badge/Markdown-100%25-D4E108?style=for-the-badge&logo=markdown&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-90%25-D4E108?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-100%25-D4E108?style=for-the-badge&logo=markdown&logoColor=black)](https://daringfireball.net/projects/markdown/)
+[![Express](https://img.shields.io/badge/Express.js-90%25-D4E108?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-90%25-D4E108?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-90%25-D4E108?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-90%25-D4E108?style=for-the-badge&logo=react)](https://reactjs.org/)
