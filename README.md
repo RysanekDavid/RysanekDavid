@@ -36,7 +36,8 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ## 🤖 AI
 
-I am interested in machine learning, chatbots, and the application of artificial intelligence in various fields. Currently, I worked with Computer Vision and Natural Language Processing. Now I am working on WebApp that use AI for various purposes. <br/>
+I am interested in machine learning, chatbots, and the application of artificial intelligence in various fields. Currently, I worked with Computer Vision and Natural Language Processing. Now I am working on WebApp that use AI for various purposes.
+<br/><br/>
 **_⌛Will be added to my repository soon⌛_**
 
 ---
