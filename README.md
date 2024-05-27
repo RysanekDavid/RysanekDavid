@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
-[![My Portfolio](https://img.shields.io/static/v1?label=&message=MY%20PORTFOLIO&style=for-the-badge&color=0d6f7a&logo=vercel&logoColor=white)](https://web-cv-wine.vercel.app)
+[![My Web](https://img.shields.io/static/v1?label=&message=MY%20WEBSITE&style=for-the-badge&color=0d6f7a&logo=vercel&logoColor=white)](https://web-cv-wine.vercel.app)
 [![Email](https://img.shields.io/static/v1?label=&message=EMAIL%20ME&color=darkgreen&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawelich@gmail.com)
 
 ## 🙋‍♂️ About Me
