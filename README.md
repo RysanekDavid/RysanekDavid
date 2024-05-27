@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm David Ryšánek 👋
+# 👋 Hi there, I'm David Ryšánek
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RysanekDavid)
 [![My Portfolio](https://img.shields.io/static/v1?label=WEB&message=MY%20PORTFOLIO&style=for-the-badge&color=#29962c)](https://web-cv-wine.vercel.app)
 
-## About Me
+## 🙋‍♂️ About Me
 
 I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
 
-## Programming Languages and frameworks
+## </> Programming Languages and frameworks
 
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-yellow?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=for-the-badge&logo=markdown&logoColor=black)
@@ -31,7 +31,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ---
 
-## Tools:
+## 🛠️ Tools:
 
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][Node.js]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][Git]
@@ -42,17 +42,17 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][Photoshop]
 [<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />][Illustrator]
 [<img align="left" alt="Axure" width="30x" src="https://logowik.com/content/uploads/images/axure2644.jpg" style="padding-right:10px;" />][Axure]
-[<img align="left" alt="PowerApps" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][PowerApps]
+[<img align="left" alt="PowerApps"  width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][PowerApps]
 
 <br/>
 
-## Certifications
+## 🏅 Certifications
 
 - **React Framework Development**
 - **TypeScript Programming**
 - **REST API Development**
 
-## Languages
+## 🗣️ Languages
 
 - **English**
 - **German**
@@ -60,17 +60,17 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 
 ---
 
-## 📊 Most Used Languages
+## 📈 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RysanekDavid&layout=compact&langs_count=4)](https://github.com/RysanekDavid/github-readme-stats)
 
 ---
 
-## 📈 Views
+## 👀 Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
 
-## 📊 GitHub Stats
+## 📶 GitHub Stats
 
   <img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RysanekDavid&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
