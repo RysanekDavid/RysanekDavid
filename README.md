@@ -18,7 +18,7 @@ I am a full-stack developer and tech enthusiast with a strong background in web 
 [![JavaScript](https://img.shields.io/badge/JavaScript-90%25-D4E108?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-90%25-D4E108?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-90%25-D4E108?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-80%25-D4E108?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-90%25-D4E108?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-60%25-D4E108?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/en/)  
 [![Tailwind](https://img.shields.io/badge/Tailwind-95%25-D4E108?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Material UI](https://img.shields.io/badge/Material--UI-100%25-D4E108?style=for-the-badge&logo=material-ui)](https://mui.com/)
