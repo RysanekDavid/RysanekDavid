@@ -67,8 +67,8 @@ I have extensive experience with a variety of OpenCV and machine learning projec
 
 ## 🏅 Certifications & Training
 
--   Advanced Programming and Development Certifications - ***GOPAS***
--   Professional IT Skill Development - ***ictPRO***
+-   Advanced Programming and Development of Typescript apps - ***GOPAS***
+-   React Framework - ***ictPRO***
 
 ---
 
