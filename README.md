@@ -65,14 +65,6 @@ I am interested in machine learning, chatbots, and the application of artificial
 
 ---
 
-## 🗣️ Languages
-
-- 🇬🇧 🇺🇸 **English**
-- 🇩🇪 **German**
-- 🇨🇿 **Czech** 🏅🏒🏅
-
----
-
 ## 👀 Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
