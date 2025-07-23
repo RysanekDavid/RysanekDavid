@@ -1,7 +1,6 @@
 # 👋 Hi, I'm David Ryšánek | Senior Full-Stack Engineer & AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
-[![My Web](https://img.shields.io/badge/-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](IN CONSTRUCTION)
 [![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rysanek.david.3@gmail.com)
 
 ## 👨‍💻 About Me
