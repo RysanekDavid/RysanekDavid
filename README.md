@@ -1,89 +1,86 @@
-# 👋 Hi there, I'm David Ryšánek
+# 👋 Hi, I'm David Ryšánek | Senior Full-Stack Engineer & AI Specialist
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
-[![My Web](https://img.shields.io/static/v1?label=&message=MY%20WEBSITE&style=for-the-badge&color=0d6f7a&logo=vercel&logoColor=white)](https://web-cv-wine.vercel.app)
-[![Email](https://img.shields.io/static/v1?label=&message=EMAIL%20ME&color=darkgreen&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawelich@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ry%C5%A1%C3%A1nek-aa088a20a/)
+[![My Web](https://img.shields.io/badge/-Portfolio%20Website-0d6f7a?style=for-the-badge&logo=vercel&logoColor=white)](https://web-cv-wine.vercel.app)
+[![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawelich@gmail.com)
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I am a full-stack developer and tech enthusiast with a strong background in web development and software engineering. I am passionate about creating innovative solutions and continuously improving my skills.
+I am a Senior Full-Stack Engineer with **5+ years** of hands-on experience architecting and delivering high-impact software solutions for both corporate clients and freelance projects.
 
----
-
-## 🖥️ Programming Languages and frameworks
-
-[![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-100%25-D4E108?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Markdown](https://img.shields.io/badge/Markdown-100%25-D4E108?style=for-the-badge&logo=markdown&logoColor=black)](https://daringfireball.net/projects/markdown/)
-[![Express](https://img.shields.io/badge/Express.js-90%25-D4E108?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-90%25-D4E108?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-90%25-D4E108?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-90%25-D4E108?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-90%25-D4E108?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-60%25-D4E108?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com/en/)  
-[![Tailwind](https://img.shields.io/badge/Tailwind-95%25-D4E108?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Material UI](https://img.shields.io/badge/Material--UI-100%25-D4E108?style=for-the-badge&logo=material-ui)](https://mui.com/)
-[![Redux](https://img.shields.io/badge/Redux-85%25-D4E108?style=for-the-badge&logo=redux)](https://redux.js.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-90%25-D4E108?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+My expertise lies in building dynamic, scalable frontends with **React & TypeScript** and engineering powerful backends with **Python & Node.js**. I have a deep passion for leveraging **Artificial Intelligence**, particularly **Computer Vision**, to automate complex processes and drive business value. I thrive on transforming complex challenges into elegant, efficient, and intelligent software.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Key Project & Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RysanekDavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🤖 Automated Quality Control System for Healthcare
+As a lead developer, I architected and delivered a mission-critical **Computer Vision system** for a major healthcare company to automate the validation of product packaging and labeling.
 
----
+* **My Role:** I designed and implemented the core CV pipeline using **Python** and **OpenCV**, developing custom algorithms for feature detection and template matching. The system was exposed via a REST API built with **FastAPI** and containerized with **Docker** for seamless deployment.
+* **Impact:** The solution **increased validation accuracy to over 99.5%**, dramatically reduced manual labor costs, and cut down processing time by **90%**, significantly optimizing a key part of their production line.
+* **Tech:** `Python`, `OpenCV`, `PyTorch`, `FastAPI`, `Docker`, `PostgreSQL`
 
-## 🤖 AI
-
-I am interested in machine learning, chatbots, and the application of artificial intelligence in various fields. Currently, I worked with Computer Vision and Natural Language Processing. Now I am working on WebApp that use AI for various purposes.
-<br/><br/>
-**⌛Will be added to my repository soon⌛**
-
----
-
-## 🛠️ Tools:
-
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][Node.js]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][Git]
-[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][Docker]
-[<img align="left" alt="JIRA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />][JIRA]
-[<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />][Trello]
-[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][VS Code]
-[<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][Photoshop]
-[<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />][Illustrator]
-[<img align="left" alt="Axure" width="30x" src="https://logowik.com/content/uploads/images/axure2644.jpg" style="padding-right:10px;" />][Axure]
-[<img align="left" alt="PowerApps"  width="26px" src="https://static.wikia.nocookie.net/logopedia/images/b/bf/PowerApps_2016.svg/revision/latest?cb=20210317092734" style="padding-right:10px;" />][PowerApps]
-<br/>
+### 👁️ Further Computer Vision Experience
+I have extensive experience with a variety of OpenCV and machine learning projects, including:
+-   Real-time object detection and tracking systems.
+-   Optical Character Recognition (OCR) solutions for document digitalization.
+-   Development of algorithms for image segmentation and analysis.
+-   Facial landmark detection for augmented reality (AR) prototypes.
 
 ---
 
-## 🏅 Certifications
+## 🛠️ My Tech Arsenal
 
-- **React Framework Development**
-- **TypeScript Programming**
-- **REST API Development**
+### Frontend
+<p>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+    <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></a>
+    <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
+</p>
+
+### Backend
+<p>
+    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+</p>
+
+### AI & Data
+<p>
+    <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"></a>
+    <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+</p>
+
+### Testing & DevOps
+<p>
+    <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+</p>
 
 ---
 
-## 👀 Views
+## 🏅 Certifications & Training
+
+-   Advanced Programming and Development Certifications - ***GOPAS***
+-   Professional IT Skill Development - ***ictPRO***
+
+---
+
+## 📊 My GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RysanekDavid&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="David Ryšánek's GitHub Stats" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RysanekDavid&theme=onedark&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RysanekDavid&style=for-the-badge)
-
----
-
-## 📶 GitHub Stats
-
-<img align="left" alt="David Ryšánek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RysanekDavid&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-
-[Node.js]: https://nodejs.org/
-[Git]: https://git-scm.com/
-[Docker]: https://www.docker.com/
-[JIRA]: https://www.atlassian.com/software/jira
-[Trello]: https://trello.com
-[VS Code]: https://code.visualstudio.com/
-[Photoshop]: https://www.adobe.com/products/photoshop.html
-[Illustrator]: https://www.adobe.com/products/illustrator.html
-[Axure]: https://www.axure.com/
-[PowerApps]: https://www.microsoft.com/powerapps
-
-<br/><br/><br/><br/><br/><br/>
